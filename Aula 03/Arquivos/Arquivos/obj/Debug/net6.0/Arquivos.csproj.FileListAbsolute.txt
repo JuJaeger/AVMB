@@ -1,0 +1,15 @@
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.csproj.AssemblyReference.cache
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.AssemblyInfoInputs.cache
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.AssemblyInfo.cs
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Arquivos\Arquivos\bin\Debug\net6.0\Arquivos.exe
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Arquivos\Arquivos\bin\Debug\net6.0\Arquivos.deps.json
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Arquivos\Arquivos\bin\Debug\net6.0\Arquivos.runtimeconfig.json
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Arquivos\Arquivos\bin\Debug\net6.0\Arquivos.dll
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Arquivos\Arquivos\bin\Debug\net6.0\Arquivos.pdb
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.dll
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Arquivos\Arquivos\obj\Debug\net6.0\refint\Arquivos.dll
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.pdb
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.genruntimeconfig.cache
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Arquivos\Arquivos\obj\Debug\net6.0\ref\Arquivos.dll

@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\AVMB\\Empresa\\AVMB\\Aula 02\\Aua02.Atividades\\Aua02.Atividades\\Aua02.Atividades.csproj": {}
+  },
+  "projects": {
+    "F:\\AVMB\\Empresa\\AVMB\\Aula 02\\Aua02.Atividades\\Aua02.Atividades\\Aua02.Atividades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\AVMB\\Empresa\\AVMB\\Aula 02\\Aua02.Atividades\\Aua02.Atividades\\Aua02.Atividades.csproj",
+        "projectName": "Aua02.Atividades",
+        "projectPath": "F:\\AVMB\\Empresa\\AVMB\\Aula 02\\Aua02.Atividades\\Aua02.Atividades\\Aua02.Atividades.csproj",
+        "packagesPath": "C:\\Users\\lorenzo.togni\\.nuget\\packages\\",
+        "outputPath": "F:\\AVMB\\Empresa\\AVMB\\Aula 02\\Aua02.Atividades\\Aua02.Atividades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lorenzo.togni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

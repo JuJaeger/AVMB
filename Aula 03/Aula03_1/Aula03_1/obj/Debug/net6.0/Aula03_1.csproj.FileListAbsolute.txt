@@ -1,0 +1,15 @@
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Aula03_1\Aula03_1\bin\Debug\net6.0\Aula03_1.exe
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Aula03_1\Aula03_1\bin\Debug\net6.0\Aula03_1.deps.json
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Aula03_1\Aula03_1\bin\Debug\net6.0\Aula03_1.runtimeconfig.json
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Aula03_1\Aula03_1\bin\Debug\net6.0\Aula03_1.dll
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Aula03_1\Aula03_1\bin\Debug\net6.0\Aula03_1.pdb
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Aula03_1\Aula03_1\obj\Debug\net6.0\Aula03_1.csproj.AssemblyReference.cache
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Aula03_1\Aula03_1\obj\Debug\net6.0\Aula03_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Aula03_1\Aula03_1\obj\Debug\net6.0\Aula03_1.AssemblyInfoInputs.cache
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Aula03_1\Aula03_1\obj\Debug\net6.0\Aula03_1.AssemblyInfo.cs
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Aula03_1\Aula03_1\obj\Debug\net6.0\Aula03_1.csproj.CoreCompileInputs.cache
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Aula03_1\Aula03_1\obj\Debug\net6.0\Aula03_1.dll
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Aula03_1\Aula03_1\obj\Debug\net6.0\refint\Aula03_1.dll
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Aula03_1\Aula03_1\obj\Debug\net6.0\Aula03_1.pdb
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Aula03_1\Aula03_1\obj\Debug\net6.0\Aula03_1.genruntimeconfig.cache
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\Aula03_1\Aula03_1\obj\Debug\net6.0\ref\Aula03_1.dll

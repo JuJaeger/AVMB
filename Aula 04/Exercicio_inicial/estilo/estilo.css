@@ -1,0 +1,80 @@
+body{
+    background-image: url(../imagem/estrelas.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+}
+
+main{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+a:hover{
+    color: darkblue;
+}
+
+.centro{
+    text-align: center;
+}
+
+.meio{
+    display: block; 
+    margin-right: 1em;
+    float: left;
+}
+
+.pessoa{
+    display: block; 
+    margin-right: 3em;
+    float: left;
+}
+
+.local{
+    display: block; 
+    margin-right: 1em;
+    float: left;
+}
+
+.posicao{
+    margin-left: 36%;
+    margin-top: 5%;
+}
+
+li{
+    list-style: none;
+    margin: 10px;
+    display: inline;
+}
+
+.nome_completo{
+    display: block; 
+    margin-right: 1em;
+    float: left;
+}
+
+.roxo{
+    color: purple;
+}
+
+.nav{
+    background-color: aqua;
+    float: left;
+}
+
+.imagem{
+    margin-left: 16%;
+    color: blue;
+    box-shadow: 10px 8px 24px 7px #000000;
+}
+
+.envio{
+    margin-left: 16%;
+    color: blue;
+    background-color: white;
+    box-shadow: 10px 8px 24px 7px #000000;
+}

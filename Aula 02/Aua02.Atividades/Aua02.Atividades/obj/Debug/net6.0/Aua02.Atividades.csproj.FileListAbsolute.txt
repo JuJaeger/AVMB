@@ -1,0 +1,15 @@
+C:\Users\julia.jaeger\Desktop\AVMB\Aua02.Atividades\Aua02.Atividades\bin\Debug\net6.0\Aua02.Atividades.exe
+C:\Users\julia.jaeger\Desktop\AVMB\Aua02.Atividades\Aua02.Atividades\bin\Debug\net6.0\Aua02.Atividades.deps.json
+C:\Users\julia.jaeger\Desktop\AVMB\Aua02.Atividades\Aua02.Atividades\bin\Debug\net6.0\Aua02.Atividades.runtimeconfig.json
+C:\Users\julia.jaeger\Desktop\AVMB\Aua02.Atividades\Aua02.Atividades\bin\Debug\net6.0\Aua02.Atividades.dll
+C:\Users\julia.jaeger\Desktop\AVMB\Aua02.Atividades\Aua02.Atividades\bin\Debug\net6.0\Aua02.Atividades.pdb
+C:\Users\julia.jaeger\Desktop\AVMB\Aua02.Atividades\Aua02.Atividades\obj\Debug\net6.0\Aua02.Atividades.csproj.AssemblyReference.cache
+C:\Users\julia.jaeger\Desktop\AVMB\Aua02.Atividades\Aua02.Atividades\obj\Debug\net6.0\Aua02.Atividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia.jaeger\Desktop\AVMB\Aua02.Atividades\Aua02.Atividades\obj\Debug\net6.0\Aua02.Atividades.AssemblyInfoInputs.cache
+C:\Users\julia.jaeger\Desktop\AVMB\Aua02.Atividades\Aua02.Atividades\obj\Debug\net6.0\Aua02.Atividades.AssemblyInfo.cs
+C:\Users\julia.jaeger\Desktop\AVMB\Aua02.Atividades\Aua02.Atividades\obj\Debug\net6.0\Aua02.Atividades.csproj.CoreCompileInputs.cache
+C:\Users\julia.jaeger\Desktop\AVMB\Aua02.Atividades\Aua02.Atividades\obj\Debug\net6.0\Aua02.Atividades.dll
+C:\Users\julia.jaeger\Desktop\AVMB\Aua02.Atividades\Aua02.Atividades\obj\Debug\net6.0\refint\Aua02.Atividades.dll
+C:\Users\julia.jaeger\Desktop\AVMB\Aua02.Atividades\Aua02.Atividades\obj\Debug\net6.0\Aua02.Atividades.pdb
+C:\Users\julia.jaeger\Desktop\AVMB\Aua02.Atividades\Aua02.Atividades\obj\Debug\net6.0\Aua02.Atividades.genruntimeconfig.cache
+C:\Users\julia.jaeger\Desktop\AVMB\Aua02.Atividades\Aua02.Atividades\obj\Debug\net6.0\ref\Aua02.Atividades.dll

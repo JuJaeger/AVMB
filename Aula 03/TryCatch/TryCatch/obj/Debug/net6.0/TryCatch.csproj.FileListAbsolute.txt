@@ -1,0 +1,15 @@
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.exe
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.deps.json
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.runtimeconfig.json
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.dll
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.pdb
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.csproj.AssemblyReference.cache
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.AssemblyInfoInputs.cache
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.AssemblyInfo.cs
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.dll
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\TryCatch\TryCatch\obj\Debug\net6.0\refint\TryCatch.dll
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.pdb
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.genruntimeconfig.cache
+C:\Users\julia.jaeger\Desktop\AVMB\Aula 03\TryCatch\TryCatch\obj\Debug\net6.0\ref\TryCatch.dll
