@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="Estilo/estilo.css">
+        <script src="https://kit.fontawesome.com/f02888817a.js" crossorigin="anonymous"></script>
+        <title>Exercício 8</title>
+    </head>
+
+    <body>
+        <!-- Exercício 8 + FÁCIL -->
+        <section>
+            <i class="fa-solid fa-right-to-bracket fa-4x imagem"></i>
+            <h2>Login</h2>
+        </section>
+
+        <form>
+            <div>
+                <label>Email:</label>
+                <input type="name" id="login" placeholder="Email" required>
+                <br><br>
+                <label>Senha:</label>
+                <input type="password" minlength="6" maxlength="10" id="login0" placeholder="Senha" required>
+                <br><br>
+                <label>Confirmar Senha:</label>
+                <input type="password" minlength="6" maxlength="10" id="login1" placeholder="Senha" required>
+                <br><br><br>
+            </div>
+
+            <section>
+                <button type="submit" id="botao" onclick="enviar()">Enviar</button>
+            </section>
+        </form>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+        <script>
+            
+            function enviar()
+            {
+                var senha = document.getElementById("login0").value;
+                var confSenha = document.getElementById("login1").value;
+
+                if (senha == confSenha)
+                {
+                    document.getElementById('enviar').submit();
+                }
+
+                else 
+                {
+                    alert("Verificar senha!")
+                }
+            }
+            
+        </script>
+
+    </body>
+</html>

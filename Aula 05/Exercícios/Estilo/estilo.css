@@ -1,0 +1,23 @@
+body
+{
+    margin-top: 12%;
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(126, 126, 121));
+    background-size: 1000%;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+section
+{
+    text-align: center;
+}
+
+div
+{
+    padding-left: 43%;
+}
+
+.imagem
+{
+    color: darkcyan;
+}
