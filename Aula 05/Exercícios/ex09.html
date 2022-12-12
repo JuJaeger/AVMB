@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="Estilo/estilo.css">
+        <script src="https://kit.fontawesome.com/f02888817a.js" crossorigin="anonymous"></script>
+        <title>Exercício 8</title>
+    </head>
+
+    <body>
+        <!-- Exercício 8 -->
+        <section>
+            <i class="fa-solid fa-right-to-bracket fa-4x imagem"></i>
+            <h2>Login</h2>
+        </section>
+
+        <form>
+            <div>
+                <label>Email:</label>
+                <input type="name" id="login" placeholder="Email">
+                <br><br>
+                <label>Senha:</label>
+                <input type="password" minlength="6" maxlength="10" id="login0" placeholder="Senha">
+                <br><br>
+                <label>Confirmar Senha:</label>
+                <input type="password" minlength="6" maxlength="10" id="login1" placeholder="Senha">
+                <br><br><br>
+            </div>
+
+            <section>
+                <button type="submit" id="botao" onclick="enviar()">Enviar</button>
+            </section>
+        </form>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+        <script>
+            
+            function enviar()
+            {
+                var login = document.getElementById("login").value;
+                var login0 = document.getElementById("login0").value;
+                var login1 = document.getElementById("login1").value;
+                var botao = document.getElementById("botao");
+
+
+
+                if (login !== "" && login0 !== "" && login1 !== "")
+                {
+                    if (login0.length >= 6 && login0.length <= 10 && login1.length >= 6 && login1.length <= 10)
+                        {
+                            if (login0 === login1)
+                            {
+                                alert("Login efetivado com sucesso!");
+                            }
+
+                            else
+                            {
+                                alert("As senhas não são correspondentes!");
+                            }
+                        }
+                        
+                    else
+                    {
+                        alert("Número de caracteres insuficiente!")
+                    }
+                }
+
+                else{
+                    alert("Você precisa preencher todos os campos!");
+                }
+                
+
+                //OUTRA TENTATIVA
+                /*
+                if (login.value !== "" && login00.value !== "" && login01.value !== "")
+                {
+                    alert("Okay");
+                }
+
+                else{
+                    alert("Você precisa preencher todos os campos!");
+                    login.innerText = "";
+                }
+                */
+            }
+            
+        </script>
+
+    </body>
+</html>

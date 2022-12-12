@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+
+        <style>
+            body
+            {
+                background-image: url(img/estrelas.jpg);
+                background-size: 100%;
+                background-repeat: no-repeat;
+                color: rgb(255, 255, 255);
+                text-align: center;
+                padding-top: 6%;
+            }
+        </style>
+    </head>
+
+    <body>
+        <form>
+            <label>Nome:</label>
+            <input id="nome" type="text">
+            <br><br>
+            <label>Pessoa:</label>
+            <input name="pessoa" id="fisica" type="radio" onChange="VerificaPessoaFisica()"> Física
+            <input name="pessoa" id="juridica" type="radio" onChange="VerificaPessoaJuridica()"> Jurídica
+            <br><br>
+            <label>CPF:</label>
+            <input id="cpf" type="number" disabled>
+            <br><br>
+            <label>CNPJ:</label>
+            <input id="cnpj" type="number" disabled>
+            <br><br>
+            <label>Data de Nascimento:</label>
+            <input id="data_nasc" type="date" disabled>
+            <br><br>
+            <label>Endereço:</label>
+            <input id="endereco" type="text">
+            <br><br>
+            <label>CEP:</label>
+            <input id="cep" type="number">
+            <br><br>
+            <label>Telefone</label>
+            <input id="telefone" type="text">
+            <br><br>
+            <label>Email</label>
+            <input id="email" type="email">
+
+            <br><br><br><br>
+
+            <button id="botao" type="submit" onclick="funcao()">Enviar</button>
+        </form>
+
+
+        <script>
+            function VerificaPessoaFisica()
+            {
+                if (document.getElementById("fisica").checked)
+                {
+                    document.getElementById("cnpj").disabled = true;
+                    document.getElementById("cpf").disabled = false;
+                    document.getElementById("data_nasc").disabled = false;
+                    document.getElementById("juridica").checked = false;
+                }             
+            }
+
+            function VerificaPessoaJuridica()
+            {
+                if (document.getElementById("juridica").checked)
+                {
+                    document.getElementById("cpf").disabled = true;
+                    document.getElementById("cnpj").disabled = false;
+                    document.getElementById("data_nasc").disabled = true;
+                    document.getElementById("fisica").checked = false;
+                }
+            }
+        </script>
+    </body>
+</html>
