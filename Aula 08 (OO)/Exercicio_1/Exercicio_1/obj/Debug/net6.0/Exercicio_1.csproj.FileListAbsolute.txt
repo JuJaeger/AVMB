@@ -1,0 +1,15 @@
+D:\AVMB\Aula 08\Exercicio_1\Exercicio_1\bin\Debug\net6.0\Exercicio_1.exe
+D:\AVMB\Aula 08\Exercicio_1\Exercicio_1\bin\Debug\net6.0\Exercicio_1.deps.json
+D:\AVMB\Aula 08\Exercicio_1\Exercicio_1\bin\Debug\net6.0\Exercicio_1.runtimeconfig.json
+D:\AVMB\Aula 08\Exercicio_1\Exercicio_1\bin\Debug\net6.0\Exercicio_1.dll
+D:\AVMB\Aula 08\Exercicio_1\Exercicio_1\bin\Debug\net6.0\Exercicio_1.pdb
+D:\AVMB\Aula 08\Exercicio_1\Exercicio_1\obj\Debug\net6.0\Exercicio_1.csproj.AssemblyReference.cache
+D:\AVMB\Aula 08\Exercicio_1\Exercicio_1\obj\Debug\net6.0\Exercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\AVMB\Aula 08\Exercicio_1\Exercicio_1\obj\Debug\net6.0\Exercicio_1.AssemblyInfoInputs.cache
+D:\AVMB\Aula 08\Exercicio_1\Exercicio_1\obj\Debug\net6.0\Exercicio_1.AssemblyInfo.cs
+D:\AVMB\Aula 08\Exercicio_1\Exercicio_1\obj\Debug\net6.0\Exercicio_1.csproj.CoreCompileInputs.cache
+D:\AVMB\Aula 08\Exercicio_1\Exercicio_1\obj\Debug\net6.0\Exercicio_1.dll
+D:\AVMB\Aula 08\Exercicio_1\Exercicio_1\obj\Debug\net6.0\refint\Exercicio_1.dll
+D:\AVMB\Aula 08\Exercicio_1\Exercicio_1\obj\Debug\net6.0\Exercicio_1.pdb
+D:\AVMB\Aula 08\Exercicio_1\Exercicio_1\obj\Debug\net6.0\Exercicio_1.genruntimeconfig.cache
+D:\AVMB\Aula 08\Exercicio_1\Exercicio_1\obj\Debug\net6.0\ref\Exercicio_1.dll

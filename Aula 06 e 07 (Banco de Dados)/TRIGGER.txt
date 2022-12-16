@@ -1,0 +1,65 @@
+create table produtos
+(
+	id serial,
+	nome varchar(50) not null,
+	estoque integer,
+	primary key(id)
+)
+
+insert into produtos (nome, estoque) values ('produto 1', 5)
+insert into produtos (nome, estoque) values ('produto 2', 25)
+insert into produtos (nome, estoque) values ('produto 3', 17)
+
+select * from produtos
+
+
+create table vendas
+(
+	id serial,
+	fk_produto integer,
+	quantidade integer not null,
+	primary key(id),
+	constraint fk_produtos_id foreign key
+		(fk_produto) references produtos(id)
+)
+
+
+
+-----
+
+
+create or replace function verificaestoque() returns trigger as $BODY$
+DECLARE 
+	estoqueatual integer := 0; --:= significa atribuição
+BEGIN
+	estoqueatual := (select produtos.estoque
+					from produtos where produtos.id = NEW.fk_produto);
+	IF(estoqueatual > NEW.quantidade) THEN
+		UPDATE produtos SET estoque = (estoqueatual - NEW.quantidade)
+						WHERE produtos.id = NEW.fk_produto;
+	ELSE
+		RAISE EXCEPTION 'Sem estoque para efetuar a venda;!!';
+	END IF;
+	RETURN NEW;
+END;
+$BODY$
+language plpgsql VOLATILE;
+
+
+
+-----
+
+
+create trigger trigger_estoque_vendas AFTER INSERT OR UPDATE
+ON vendas
+FOR EACH ROW EXECUTE PROCEDURE verificaestoque();
+
+
+
+-----
+
+
+select * from produtos
+
+insert into vendas(fk_produto, quantidade) values (2, 5)
+insert into vendas(fk_produto, quantidade) values (1, 10)

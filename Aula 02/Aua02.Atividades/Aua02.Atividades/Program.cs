@@ -198,7 +198,7 @@ namespace Aua02.Atividades
             // Escreva um programa que leia um valor entre 0 e 9, e então escreva na tela o mesmo na forma literal.
             // Pergunte também se o usuário quer saber a forma literal em português, inglês ou espanhol.
 
-            /*
+            
             int num, idioma = 0;
 
             Console.WriteLine("Digite um número de 0 a 9:");
@@ -414,7 +414,7 @@ namespace Aua02.Atividades
                     }
                 }
             }
-            */
+            
 
 
             //Atividade 5 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -886,7 +886,7 @@ namespace Aua02.Atividades
             // 1000/1   -   997/2   +   994/3   -   991/4   +   ...
 
 
-
+            /*
             float dividendo = 1000, resultado = 0;
 
             for (int divisor = 1; divisor <= 50; divisor++)
@@ -905,6 +905,7 @@ namespace Aua02.Atividades
             }
 
             Console.WriteLine("O resultado da expressão é " + resultado);
+            */
             
 
 

@@ -5,6 +5,15 @@ body{
     color: rgb(255, 255, 255);
 }
 
+a:hover{
+    color: blueviolet;
+    background-color: rgb(108, 244, 244);
+}
+
+a:visited{
+    color: blueviolet;
+}
+
 main{
     padding-left: 30px;
     padding-right: 30px;
@@ -12,10 +21,6 @@ main{
 
 h1, h2{
     text-align: center;
-}
-
-a:hover{
-    color: darkblue;
 }
 
 .centro{
@@ -61,9 +66,12 @@ li{
     color: purple;
 }
 
-.nav{
+.nav_itens{
     background-color: aqua;
     float: left;
+    text-align: center;
+    padding-bottom: 2%;
+    padding-top: 2%;
 }
 
 .imagem{

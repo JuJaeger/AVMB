@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AVMB\\Empresa\\AVMB\\Aula 03\\Exercícios_matriz\\Exercícios_matriz\\Exercícios_matriz.csproj": {}
+    "D:\\AVMB\\Aula 03\\Exercícios_matriz\\Exercícios_matriz\\Exercícios_matriz.csproj": {}
   },
   "projects": {
-    "D:\\AVMB\\Empresa\\AVMB\\Aula 03\\Exercícios_matriz\\Exercícios_matriz\\Exercícios_matriz.csproj": {
+    "D:\\AVMB\\Aula 03\\Exercícios_matriz\\Exercícios_matriz\\Exercícios_matriz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AVMB\\Empresa\\AVMB\\Aula 03\\Exercícios_matriz\\Exercícios_matriz\\Exercícios_matriz.csproj",
+        "projectUniqueName": "D:\\AVMB\\Aula 03\\Exercícios_matriz\\Exercícios_matriz\\Exercícios_matriz.csproj",
         "projectName": "Exercícios_matriz",
-        "projectPath": "D:\\AVMB\\Empresa\\AVMB\\Aula 03\\Exercícios_matriz\\Exercícios_matriz\\Exercícios_matriz.csproj",
+        "projectPath": "D:\\AVMB\\Aula 03\\Exercícios_matriz\\Exercícios_matriz\\Exercícios_matriz.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\AVMB\\Empresa\\AVMB\\Aula 03\\Exercícios_matriz\\Exercícios_matriz\\obj\\",
+        "outputPath": "D:\\AVMB\\Aula 03\\Exercícios_matriz\\Exercícios_matriz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

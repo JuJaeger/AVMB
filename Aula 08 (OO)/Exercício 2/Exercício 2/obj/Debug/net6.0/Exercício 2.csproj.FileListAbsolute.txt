@@ -1,0 +1,15 @@
+D:\AVMB\Aula 08\Exercício 2\Exercício 2\bin\Debug\net6.0\Exercício 2.exe
+D:\AVMB\Aula 08\Exercício 2\Exercício 2\bin\Debug\net6.0\Exercício 2.deps.json
+D:\AVMB\Aula 08\Exercício 2\Exercício 2\bin\Debug\net6.0\Exercício 2.runtimeconfig.json
+D:\AVMB\Aula 08\Exercício 2\Exercício 2\bin\Debug\net6.0\Exercício 2.dll
+D:\AVMB\Aula 08\Exercício 2\Exercício 2\bin\Debug\net6.0\Exercício 2.pdb
+D:\AVMB\Aula 08\Exercício 2\Exercício 2\obj\Debug\net6.0\Exercício 2.csproj.AssemblyReference.cache
+D:\AVMB\Aula 08\Exercício 2\Exercício 2\obj\Debug\net6.0\Exercício 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\AVMB\Aula 08\Exercício 2\Exercício 2\obj\Debug\net6.0\Exercício 2.AssemblyInfoInputs.cache
+D:\AVMB\Aula 08\Exercício 2\Exercício 2\obj\Debug\net6.0\Exercício 2.AssemblyInfo.cs
+D:\AVMB\Aula 08\Exercício 2\Exercício 2\obj\Debug\net6.0\Exercício 2.csproj.CoreCompileInputs.cache
+D:\AVMB\Aula 08\Exercício 2\Exercício 2\obj\Debug\net6.0\Exercício 2.dll
+D:\AVMB\Aula 08\Exercício 2\Exercício 2\obj\Debug\net6.0\refint\Exercício 2.dll
+D:\AVMB\Aula 08\Exercício 2\Exercício 2\obj\Debug\net6.0\Exercício 2.pdb
+D:\AVMB\Aula 08\Exercício 2\Exercício 2\obj\Debug\net6.0\Exercício 2.genruntimeconfig.cache
+D:\AVMB\Aula 08\Exercício 2\Exercício 2\obj\Debug\net6.0\ref\Exercício 2.dll

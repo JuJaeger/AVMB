@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\AVMB\\Empresa\\AVMB\\Aula 02\\Aua02.Atividades\\Aua02.Atividades\\Aua02.Atividades.csproj": {}
+    "D:\\AVMB\\Aula 02\\Aua02.Atividades\\Aua02.Atividades\\Aua02.Atividades.csproj": {}
   },
   "projects": {
-    "F:\\AVMB\\Empresa\\AVMB\\Aula 02\\Aua02.Atividades\\Aua02.Atividades\\Aua02.Atividades.csproj": {
+    "D:\\AVMB\\Aula 02\\Aua02.Atividades\\Aua02.Atividades\\Aua02.Atividades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\AVMB\\Empresa\\AVMB\\Aula 02\\Aua02.Atividades\\Aua02.Atividades\\Aua02.Atividades.csproj",
+        "projectUniqueName": "D:\\AVMB\\Aula 02\\Aua02.Atividades\\Aua02.Atividades\\Aua02.Atividades.csproj",
         "projectName": "Aua02.Atividades",
-        "projectPath": "F:\\AVMB\\Empresa\\AVMB\\Aula 02\\Aua02.Atividades\\Aua02.Atividades\\Aua02.Atividades.csproj",
-        "packagesPath": "C:\\Users\\lorenzo.togni\\.nuget\\packages\\",
-        "outputPath": "F:\\AVMB\\Empresa\\AVMB\\Aula 02\\Aua02.Atividades\\Aua02.Atividades\\obj\\",
+        "projectPath": "D:\\AVMB\\Aula 02\\Aua02.Atividades\\Aua02.Atividades\\Aua02.Atividades.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "D:\\AVMB\\Aula 02\\Aua02.Atividades\\Aua02.Atividades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lorenzo.togni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

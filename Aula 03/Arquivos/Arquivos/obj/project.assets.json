@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\julia.jaeger\\.nuget\\packages\\": {}
+    "C:\\Users\\julia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julia.jaeger\\Desktop\\AVMB\\Aula 03\\Arquivos\\Arquivos\\Arquivos.csproj",
+      "projectUniqueName": "D:\\AVMB\\Aula 03\\Arquivos\\Arquivos\\Arquivos.csproj",
       "projectName": "Arquivos",
-      "projectPath": "C:\\Users\\julia.jaeger\\Desktop\\AVMB\\Aula 03\\Arquivos\\Arquivos\\Arquivos.csproj",
-      "packagesPath": "C:\\Users\\julia.jaeger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julia.jaeger\\Desktop\\AVMB\\Aula 03\\Arquivos\\Arquivos\\obj\\",
+      "projectPath": "D:\\AVMB\\Aula 03\\Arquivos\\Arquivos\\Arquivos.csproj",
+      "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
+      "outputPath": "D:\\AVMB\\Aula 03\\Arquivos\\Arquivos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\julia.jaeger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

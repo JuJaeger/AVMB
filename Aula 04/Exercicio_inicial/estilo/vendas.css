@@ -5,14 +5,26 @@ body{
     color: rgb(255, 255, 255);
 }
 
+a:hover{
+  color: blueviolet;
+  background-color: rgb(108, 244, 244);
+}
+
+a:visited{
+  color: blueviolet;
+}
+
 main{
     padding-left: 10%;
     padding-right: 10%;
 }
 
-.nav{
-    background-color: aqua;
-    float: left;
+.nav_itens{
+  background-color: aqua;
+  float: left;
+  text-align: center;
+  padding-bottom: 2%;
+  padding-top: 2%;
 }
 
 .roxo{
@@ -24,7 +36,6 @@ li{
     margin: 10px;
     display: inline;
 }
-
 
 .card {
     /* Add shadows to create the "card" effect */
@@ -48,3 +59,11 @@ li{
     margin-right: 1em;
     float: left;
   } 
+
+  .separar{
+    margin: 10px;
+  }
+
+  .blocos{
+    margin-top: 6%;
+  }
