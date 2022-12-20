@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        <link rel="stylesheet" href="estilo/buraco_negro.css">
+        <script src="https://kit.fontawesome.com/f02888817a.js" crossorigin="anonymous"></script>
+        <title>Projeto</title>
+    </head>
+
+    <body>
+        <div class="container" id="container">
+            <header>
+                <nav>
+                    <div class="row">
+                        <div class="col-lg-7 col-md-7">
+                            <div class="card borda">
+                                <div class="card-body">
+                                    <i class="fa-solid fa-star-and-crescent fa-2x logo"></i>
+                                    <h6>Venha conhecer o mundo Galáctico</h6>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4">
+                            <div class="card contato">
+                                <div class="card-body">
+                                    <a class="link_1" href="http://api.whatsapp.com/send?1=pt_BR&phone=5555991370342" target="_blank"><i class="fa-brands fa-whatsapp"></i> Whatsapp</a>
+                                    |
+                                    <a class="link_1" href="https://www.instagram.com/jujaeger13/" target="_blank"><i class="fa-brands fa-instagram"></i> Instagram</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <ul>
+                        <li class="card fundo">
+                            <div class="card-body">
+                                <a class="link_1" href="index.html">Início</a>
+                                |
+                                <a class="link_1" href="constelacao.html">Constelações</a>
+                                |
+                                <a class="link_1" href="planetas.html">Planetas</a>
+                                |
+                                <a class="link_1" href="signos.html">Signos</a>
+                                |
+                                <a class="link_1" href="Buracos_negros.html">Buracos Negros</a>
+                                |
+                                <a class="link_1" href="pilares_criacao.html">Pilares da Criação</a>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+            </header>
+
+            <div class="imagem">
+                <img class="img_1" src="img/buraco_negro_destaque.webp" width="90%">
+            </div>
+
+
+            <div class="row">
+                <div class="col-lg-3 col-md-3">
+                    <div class="card lateral">
+                        <div class="card-body">
+                            <h6 class="link_2">Mudar tamanho da letra</h6>
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6">
+                                    <button onclick="maior()" type="button">+</button>
+                                </div>
+
+                                <div class="col-lg-6 col-md-6">
+                                    <button onclick="menor()" type="button" class="menos">-</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card-body">
+                            <a class="link_2" href="index.html">
+                                <img src="img/inicio.jpg" width="100%">
+                                <h6>Início</h6>
+                            </a>
+                        </div>
+
+                        <div class="card-body">
+                            <a class="link_2" href="constelacao.html">
+                                <img src="img/constelacoes..jpg" width="100%">
+                                <h6>Constelações</h6>
+                            </a>
+                        </div>
+
+                        <div class="card-body">
+                            <a class="link_2" href="planetas.html">
+                                <img src="img/planetas.webp" width="100%">
+                                <h6>Planetas</h6>
+                            </a>
+                        </div>
+
+                        <div class="card-body">
+                            <a class="link_2" href="signos.html">
+                                <img src="img/signos.webp" width="100%">
+                                <h6>Signos</h6>
+                            </a>
+                        </div>
+
+                        <div class="card-body">
+                            <a class="link_2" href="buracos_negros.html">
+                                <img src="img/buraco_negro.webp" width="100%">
+                                <h6>Buracos Negros</h6>
+                            </a>
+                        </div>
+
+                        <div class="card-body">
+                            <a class="link_2" href="pilares_criacao.html">
+                                <img src="img/Pilares_criação.jfif" width="100%">
+                                <h6>Pilares da Criação</h6>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="sobre">
+                        <h5>-Links sobre:</h5>
+                        <p class="text-white">
+                            <ul>
+                                <li>
+                                    <a href="https://www.todamateria.com.br/buraco-negro/" target="_blank">Teorias</a>
+                                </li>
+                                <li>
+                                    <a href="https://museuweg.net/blog/o-que-e-um-buraco-negro-e-por-que-precisamos-estuda-lo/" target="_blank">Blog com Ciência (Interessante)</a>
+                                </li>
+                            </ul>                                
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-9 col-md-9">
+                    <div class="card principal_corpo">
+                        <h3>---------------------------Buraco Negro---------------------------</h3>
+                    </div>
+
+                    <div id="p" class="texto">
+                        <div>
+                            <h5>-O que são:</h5>
+                            <p>
+                                <u class="text-white">
+                                    São uma região do espaço com um campo gravitacional tão intenso que nem mesmo a luz consegue escapar de dentro dele. A intensa gravidade comprime a matéria até que não haja mais espaço entre os átomos. Corpos celestes dessa natureza podem surgir em decorrência da morte de estrelas supermassivas.
+                                </u>
+                            </p>
+                        </div>
+
+                        <div>
+                            <h5>-Tipos:</h5>
+                            <p>
+                                <u class="text-white">
+                                    <ul>
+                                        <li>
+                                            <b>Buracos negros estelares:</b> São aqueles derivados do colapso gravitacional das estrelas que possuem pelo menos o triplo da massa do Sol. São os mais comuns no nosso Universo.
+                                        </li>
+                                        <li>
+                                            <b>Buracos negros supermassivos:</b> São centenas de milhares e até bilhões de vezes mais massivos que o Sol, e estão localizados mais comumente no centro das galáxias. Um exemplo é o Sagitário A*, que fica no centro da Via Láctea. Sua formação ainda é incerta, e acredita-se que pode ter se originado do colapso de aglomerados estelares, gases ou também da fusão de buracos negros menores.
+                                        </li>
+                                        <li>
+                                            <b>Buracos negros intermediários:</b> São aqueles com massa intermediária, entre os estelares e supermassivos.
+                                        </li>
+                                    </ul>
+                                </u>
+                            </p>
+                        </div>
+
+                        <div>
+                            <h5>-Como se origina um buraco negro?</h5>
+                            <p>
+                                <u class="text-white">
+                                    Os buracos negros se originam por meio do colapso gravitacional de outros corpos celestes e materiais presentes no espaço, como é o caso das estrelas supermassivas, que possuem pelo menos três vezes a massa do Sol.
+                                </u>
+                            </p>
+                            <p>
+                                <u class="text-white">
+                                    Todas as estrelas são essencialmente formadas por poeira e gases, com reações termonucleares que acontecem na sua camada mais interna, o núcleo. A compactação desses astros acontece quando os elementos responsáveis pela fusão nuclear (combustíveis) se esgotam, o que desencadeia uma explosão denominada supernova. Nas estrelas massivas, a atração gravitacional é tão intensa que elas se compactam até chegarem ao estágio dos buracos negros.
+                                </u>
+                            </p>
+                        </div>
+
+                        <div>
+                            <h5>-Propriedades e estrutura do buraco negro:</h5>
+                            <p>
+                                <u class="text-white">
+                                    <ul>
+                                        <li>
+                                            <b>Singularidade:</b> Corresponde à principal parte de um buraco negro, localizada no seu centro. Trata-se de um único ponto que abriga uma enorme massa derivada do colapso gravitacional da estrela que originou o buraco negro e também daqueles corpos por ele atraídos. Essas características fazem com que a singularidade apresente uma densidade extremamente alta, descrita como infinita.
+                                        </li>
+                                        <li>
+                                            <b>Horizonte de Eventos:</b> Conhecido como o ponto de não retorno de um buraco negro, consiste em uma região que circunda o seu núcleo. Corresponde ao limite a partir do qual toda matéria e energia é atraída para o interior dos buracos negros. Para que isso não aconteça, os objetos precisam estar a uma determinada distância do horizonte de eventos, movendo-se a uma velocidade igual ou superior à velocidade de escape.
+                                        </li>
+                                        <li>
+                                            <b>Discos de Acreção:</b> São formados por poeira e gases superaquecidos que emitem radiação eletromagnética e se movem a uma velocidade acelerada no entorno dos buracos negros. A parte dessa estrutura situada fora do horizonte de eventos é visível, o que torna possível a identificação dos buracos negros.
+                                        </li>
+                                    </ul>
+                                </u>
+                            </p>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+
+
+            <footer>
+                <h5> Copyright by Jaeger E.S. | &copy; 2022</h5>
+            </footer>
+        </div>
+
+
+        <script>
+            var font = 15;
+            function maior()
+            {
+                font++;
+                var mais = font + "px";
+                document.getElementById("p").style.fontSize = (mais);
+            }
+
+            function menor()
+            {
+                font--;
+                var mais = font + "px";
+                document.getElementById("p").style.fontSize = (mais);
+            }
+        </script>
+
+
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    </body>
+</html>
